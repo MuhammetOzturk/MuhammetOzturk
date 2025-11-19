@@ -1,12 +1,10 @@
-<h1 align="center">Hi  I'm Muhammet</h1>
-<h3 align="center">I am a freelancer from Turkey</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammetozturk&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="muhammetozturk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetozturk&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="muhammetozturk's Most Used Languages" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammetozturk&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetozturk" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetozturk&show_icons=true&locale=en&layout=compact" alt="muhammetozturk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetozturk&show_icons=true&locale=en" alt="muhammetozturk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetozturk&" alt="muhammetozturk" /></p>
-
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammetozturk&theme=xcode&hide_border=true" alt="Activity graph" />
+  </a>
+</p>
